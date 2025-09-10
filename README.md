@@ -1,0 +1,2 @@
+# Hybrid_RAG_NLP_LLM_Tool_for_Predictive_Automotive_Maintenance
+AI-driven tool integrates Hybrid Retrieval-Augmented Generation (RAG) with Natural Language Processing (NLP) and Large Language Models (LLM) for predictive maintenance in combustion engine vehicles. It processes real-time sensor logs to forecast failures, recommend actions, estimate costs (in USD), assess urgency and costs for automotive fleets.
